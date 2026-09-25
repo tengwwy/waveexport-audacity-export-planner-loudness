@@ -1,0 +1,41 @@
+{
+  "id": 94,
+  "category": "app-workflow",
+  "slug": "audacity-export-planner",
+  "target": "Audacity",
+  "appid": null,
+  "summaryRu": "Планировщик настроек экспорта и контрольных прослушиваний аудиопроектов.",
+  "features": [
+    "Export format worksheets",
+    "Loudness target notes",
+    "Listening review checklist"
+  ],
+  "title": "WaveExport — Audacity — Loudness",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "editorial-selection",
+      "sourceId": null,
+      "detail": "Editorial workflow selection; current popularity was not independently measured."
+    }
+  ],
+  "brand": "WaveExport",
+  "repositoryName": "waveexport-audacity-export-planner-loudness",
+  "githubTopics": [
+    "audacity",
+    "audio-export",
+    "loudness-notes",
+    "listening-review",
+    "workflow-planning",
+    "application-tools",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "loudness"
+}
